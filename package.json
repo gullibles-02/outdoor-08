@@ -1,10 +1,13 @@
 {
-  "name": "QhwEi8XN38So1QdRzqUNEPUusd14vNz8aClKsF0G8yubSsZNyb",
+  "name": "หวยย้อนหลัง64 ดูที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.27",
   "description": "หวยย้อนหลัง64 หวยมาเลย์ เท่ากับ หวยย้อนหลัง64 Thailotto หวยออนไลน์ อันดับหนึ่ง ออกทุกวันพุธ และเสาร์ อาทิตย์ เวลา 1840 และจะมีออกวันอังคารเป็นบางสัปดาห์ ตา",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["หวยย้อนหลัง64","หวยย้อนหลัง64 Thailotto"],
+  "keywords": [
+    "หวยย้อนหลัง64",
+    "หวยย้อนหลัง64 Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
