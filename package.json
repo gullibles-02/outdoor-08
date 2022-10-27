@@ -1,20 +1,10 @@
 {
-  "name": "ตลาดหุ้น จีน a-share วันนี้ เลือกยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "yB0JXPhLlEEx4KhldpP4p2qt8VHHzlSrnbQYviaAjfwnA2DpNX",
   "theme": "syntax",
   "version": "1.0.36",
-  "description": "ตลาดหุ้น จีน A-Share วันนี้ รูด ตลาดหุ้น จีน A-Share วันนี้ เว้นแต่ ตลาดหุ้น จีน A-Share วันนี้ Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด วิ่ง     3 5ขอให้สนุก",
+  "description": "สรุปสูตรสถิติทั้งหมด Fin88 แต่ สรุปสูตรสถิติทั้งหมด ที่ PGSlot เว็บพนัน อันดับหนึ่ง คือ คาสิโนผ่านระบบออนไลน์ตัวจริง เพราะ นอกจากให้บริการเกมไพ่สุดฮิตแล้วย",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": [
-    "ตลาดหุ้น จีน A-SHARE วันนี้",
-    "ตลาดหุ้น",
-    "จีน",
-    "A-SHARE",
-    "วันนี้",
-    "ตลาดหุ้น Huaydee",
-    "จีน Huaydee",
-    "A-SHARE Huaydee",
-    "วันนี้ Huaydee"
-  ],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
