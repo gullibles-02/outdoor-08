@@ -1,10 +1,13 @@
 {
   "name": "yB0JXPhLlEEx4KhldpP4p2qt8VHHzlSrnbQYviaAjfwnA2DpNX",
   "theme": "syntax",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "description": "เว็บพนันออนไลน์999 Lucia แด่ เว็บพนันออนไลน์999 ที่ 12Bet เว็บพนัน อันดับหนึ่ง 689 ผู้ให้บริการ Lucia เว็บตรงที่เป็นทางเข้าหลักในการเดิมพันกับสล็อตและคาสิโ",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["เว็บพนันออนไลน์999","เว็บพนันออนไลน์999 12Bet"],
+  "keywords": [
+    "เว็บพนันออนไลน์999",
+    "เว็บพนันออนไลน์999 12Bet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
