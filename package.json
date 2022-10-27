@@ -1,10 +1,16 @@
 {
-  "name": "R7oorKtd1yCPBnQF5LWKBnqfh7CFUkFpVnjWeKNRROxx4xM5z6",
+  "name": "chang lotto สมัครยังไง - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.20",
   "description": "Chang lotto ตรวจผลการออกรางวัล ด้วย Chang lotto ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง หวยพม่า ผลหวยพม่า 240365 ตรวจหวยพม่า 2d งวดล่าสุด ประจำงวดที่ 24 มีนาค",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["CHANG LOTTO","CHANG","LOTTO","CHANG Choke","LOTTO Choke"],
+  "keywords": [
+    "CHANG LOTTO",
+    "CHANG",
+    "LOTTO",
+    "CHANG Choke",
+    "LOTTO Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
