@@ -1,0 +1,12 @@
+{
+  "name": "80Jrrk5brrImS3afPnm5XOcRjWoK2aUZV6Ko5LWCy4P8PDCFDZ",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "กบไชโยคืออะไร คลิกเล่นเป่ายิ้งฉุบคลิกเล่นเป่ายิ้งฉุบ ต่อ กบไชโยคืออะไร Uwin789 ยูวิน หวยออนไลน์ มีหวยทุกชนิด",
+  "repository": "https://github.com/gullibles-02/outdoor-08",
+  "keywords": ["กบไชโยคืออะไร","กบไชโยคืออะไร Uwin789"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
