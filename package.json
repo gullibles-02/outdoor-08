@@ -1,10 +1,13 @@
 {
-  "name": "NUJfFs839hcDfJaQXBTXhIspkNbMy9NPszNzPMMURhozDEorFZ",
+  "name": "หุ้นจีนออกกี่โมง ดูที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "หุ้นจีนออกกี่โมง หวยหุ้นสิงคโปร์ หุ้นจีนออกกี่โมง กับ หุ้นจีนออกกี่โมง Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด  เป็นการทายผลตัวเลขอีกรูปแบบหนึ่งที่กำลังได้รับ",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["หุ้นจีนออกกี่โมง","หุ้นจีนออกกี่โมง Huay24"],
+  "keywords": [
+    "หุ้นจีนออกกี่โมง",
+    "หุ้นจีนออกกี่โมง Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
