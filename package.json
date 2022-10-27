@@ -1,20 +1,10 @@
 {
-  "name": "ตลาดหุ้น จีน a-share วันนี้ เลือกยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "pujiFPlaGH4jcK2KGOLPzgXMfkaLI4bMJPG6tJd55rPlPjmgMA",
   "theme": "syntax",
   "version": "1.0.35",
   "description": "ตลาดหุ้น จีน A-Share วันนี้ รูด ตลาดหุ้น จีน A-Share วันนี้ เว้นแต่ ตลาดหุ้น จีน A-Share วันนี้ Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด วิ่ง     3 5ขอให้สนุก",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": [
-    "ตลาดหุ้น จีน A-SHARE วันนี้",
-    "ตลาดหุ้น",
-    "จีน",
-    "A-SHARE",
-    "วันนี้",
-    "ตลาดหุ้น Huaydee",
-    "จีน Huaydee",
-    "A-SHARE Huaydee",
-    "วันนี้ Huaydee"
-  ],
+  "keywords": ["ตลาดหุ้น จีน A-SHARE วันนี้","ตลาดหุ้น","จีน","A-SHARE","วันนี้","ตลาดหุ้น Huaydee","จีน Huaydee","A-SHARE Huaydee","วันนี้ Huaydee"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
