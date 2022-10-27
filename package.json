@@ -1,10 +1,18 @@
 {
-  "name": "JQXalz3lo9ISOVYYKuCYnG601Ln6qFhT0jK3gZBH38pTnK3Nn5",
+  "name": "ruay.com ดีไหม pantip คืออะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.32",
   "description": "ruay.com ดีไหม pantip สำหรับท่านที่สนใจ อย่างไรก็ดี ruay.com ดีไหม pantip ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง หวยหุ้นจีน วันนี้เราจะมาอธิบาย วิธีดูผลหวยหุ้",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["RUAY.COM ดีไหม PANTIP","RUAY.COM","ดีไหม","PANTIP","RUAY.COM Huay","ดีไหม Huay","PANTIP Huay"],
+  "keywords": [
+    "RUAY.COM ดีไหม PANTIP",
+    "RUAY.COM",
+    "ดีไหม",
+    "PANTIP",
+    "RUAY.COM Huay",
+    "ดีไหม Huay",
+    "PANTIP Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
