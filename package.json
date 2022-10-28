@@ -1,10 +1,22 @@
 {
-  "name": "Vgsb8Am7q9mi8znP7jL8rJ8dqRQkU4K3kPRbMQppPGIbe736RT",
+  "name": "ดูตาราง หุ้น นิ เค อิ เลือกยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.73",
   "description": "ดูตาราง หุ้น นิ เค อิ หวยไทยรัฐ กับ ดูตาราง หุ้น นิ เค อิ Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด ชุดเลขเด่นผลงานดีที่คอหวยติดตามกันเป็นจำนวนมาก เช่นเ",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["ดูตาราง หุ้น นิ เค อิ","ดูตาราง","หุ้น","นิ","เค","อิ","ดูตาราง Huay Happy","หุ้น Huay Happy","นิ Huay Happy","เค Huay Happy","อิ Huay Happy"],
+  "keywords": [
+    "ดูตาราง หุ้น นิ เค อิ",
+    "ดูตาราง",
+    "หุ้น",
+    "นิ",
+    "เค",
+    "อิ",
+    "ดูตาราง Huay Happy",
+    "หุ้น Huay Happy",
+    "นิ Huay Happy",
+    "เค Huay Happy",
+    "อิ Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
