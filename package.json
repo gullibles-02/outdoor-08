@@ -1,10 +1,13 @@
 {
-  "name": "Y4fvpLJ3RrHs4ds7Q60LLzHUvZuDFoyTM3WAZJC8yM1iOHnU5O",
+  "name": "เค้าไพ่สามเกลอ มีคำตอบ - เว็บใหม่ pgslot 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "เค้าไพ่สามเกลอ Mario ใน เค้าไพ่สามเกลอ PGSlot เว็บพนันออนไลน์ อันดับหนึ่ง Slot 88 เว็บไซต์ เกมสล็อตออนไลน์ เว็บเกมสล็อต ที่เรียกได้ว่า เป็น เว็บที่ดีที่สุด",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["เค้าไพ่สามเกลอ","เค้าไพ่สามเกลอ PGSlot"],
+  "keywords": [
+    "เค้าไพ่สามเกลอ",
+    "เค้าไพ่สามเกลอ PGSlot"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
