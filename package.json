@@ -1,10 +1,16 @@
 {
-  "name": "IP9hREf1C1grkLhYjuB2AT46Ep5QjvYpu9E9uJkcdTziqQ3ixe",
+  "name": "kiosk login ดูที่ไหน - เว็บใหม่ rg888 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "Kiosk login สมาชิกคุณได้ก็ตามที่กลัวจะกำเนิดปัญหาจากการใช้บริการ ตาม Kiosk login ที่ RG888 เว็บพนัน อันดับหนึ่ง เว็บคาสิโนออนไลน์ ที่ให้บริการสำหรับในการเล",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["KIOSK LOGIN","KIOSK","LOGIN","KIOSK RG888","LOGIN RG888"],
+  "keywords": [
+    "KIOSK LOGIN",
+    "KIOSK",
+    "LOGIN",
+    "KIOSK RG888",
+    "LOGIN RG888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
