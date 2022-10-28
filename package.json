@@ -1,10 +1,18 @@
 {
-  "name": "1uvJnCr6t3essojm69TrKkVPDIzRnlW2rvMZtN0MMUULvSlvJr",
+  "name": "สถิติ ไต้หวัน vip แตกต่างกันอย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.62",
   "description": "สถิติ ไต้หวัน VIP ก่อนอื่น เนื่องแต่ สถิติ ไต้หวัน VIP Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด สถิติ ไต้หวัน VIP เพื่อนๆต้องทำความเข้าใจกับ รูปแบบการซ",
   "repository": "https://github.com/gullibles-02/outdoor-08",
-  "keywords": ["สถิติ ไต้หวัน VIP","สถิติ","ไต้หวัน","VIP","สถิติ Huay Happy","ไต้หวัน Huay Happy","VIP Huay Happy"],
+  "keywords": [
+    "สถิติ ไต้หวัน VIP",
+    "สถิติ",
+    "ไต้หวัน",
+    "VIP",
+    "สถิติ Huay Happy",
+    "ไต้หวัน Huay Happy",
+    "VIP Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
